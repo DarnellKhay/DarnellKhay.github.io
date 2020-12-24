@@ -737,6 +737,12 @@ input, select, textarea {
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+	img.project3{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
 /* List */
 
 	ol {
@@ -1660,6 +1666,10 @@ p.project2p {
 	font-size: 16px;
 }
 
+p.project3p {
+	text-align: center;
+	font-size: 16px;
+}
 p.section1{
 	font-size: 15px;
 }
